@@ -1,0 +1,7 @@
+*.php~
+*.log
+.idea/*
+.idea
+.env
+.git/*
+vendor
